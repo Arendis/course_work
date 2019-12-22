@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#7B3F00</color>//цвет панели шапки
+    <color name="colorPrimaryDark">#3d2b1f</color>//цвет панели "телефона"
+    <color name="colorAccent">#7b3f00</color>//цвет кнопка добавления
+</resources>

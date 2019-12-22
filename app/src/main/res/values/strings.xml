@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name"> </string>
+    <string name="title_note_detail">Данные заметки</string>
+    <string name="content_hint">Данные</string>
+
+    <!-- ни никогда не будут видны пользователю, но останавливают появление предупреждений
+    Они предназначены только для того, чтобы дизайнер отображал актуальный текст во время разработки-->
+    <string name="sample_guid">89dd210b&#8211;4493&#8211;439f&#8211;b895&#8211;cb1dd300e985</string>
+    <string name="sample_title">Sample Title</string>
+    <string name="title_hint">Название</string>
+</resources>
